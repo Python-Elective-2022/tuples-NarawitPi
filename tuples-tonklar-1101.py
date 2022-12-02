@@ -1,6 +1,10 @@
 """
 function skip_tuples():
     take input as tuple
+    create empty tuple
+    for index in range(0 to length of input, skip 1 index):
+        add the index to empty tuple
+    :return final tuple
 
 
 """
